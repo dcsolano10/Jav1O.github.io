@@ -1,5 +1,6 @@
 //Margenes del elemento svg
-
+//Eta muy organizado el código, es modular. Se podrían colocar el ancho y el alto de acuerdo al tamaño del navegador para hacerlo resposive. 
+//Pero está muy bien hecho, felicitaciones.
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
